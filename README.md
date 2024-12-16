@@ -1,4 +1,7 @@
 Doc: https://phoenixnap.com/kb/mongodb-sharding
+https://www.bmc.com/blogs/mongodb-sharding-explained/
+
+https://www.digitalocean.com/community/tutorials/how-to-use-sharding-in-mongodb
 
 rs.initiate(
   {
