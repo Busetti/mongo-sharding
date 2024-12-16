@@ -1,4 +1,4 @@
-:wservices:
+services:
   configs1:
     container_name: configs1
     image: mongo
